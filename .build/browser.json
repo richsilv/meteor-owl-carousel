@@ -1,0 +1,79 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [
+    {
+      "name": "resOpt"
+    },
+    {
+      "name": "padding"
+    },
+    {
+      "name": "stageX"
+    },
+    {
+      "name": "view"
+    },
+    {
+      "name": "translate"
+    },
+    {
+      "name": "LazyLoad"
+    },
+    {
+      "name": "AutoHeight"
+    },
+    {
+      "name": "Video"
+    },
+    {
+      "name": "id"
+    },
+    {
+      "name": "width"
+    },
+    {
+      "name": "height"
+    },
+    {
+      "name": "Animate"
+    },
+    {
+      "name": "removeStyles"
+    },
+    {
+      "name": "Autoplay"
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "jquery"
+    }
+  ],
+  "resources": [
+    {
+      "type": "css",
+      "file": "browser/packages/owl-carousel/lib/owl.carousel.css",
+      "length": 4616,
+      "offset": 0,
+      "servePath": "/packages/owl-carousel/lib/owl.carousel.css"
+    },
+    {
+      "type": "css",
+      "file": "browser/packages/owl-carousel/lib/owl.theme.default.css",
+      "length": 1285,
+      "offset": 0,
+      "servePath": "/packages/owl-carousel/lib/owl.theme.default.css"
+    },
+    {
+      "type": "prelink",
+      "file": "browser/packages/owl-carousel.js",
+      "length": 406495,
+      "offset": 0,
+      "servePath": "/packages/owl-carousel.js",
+      "sourceMap": "browser/packages/owl-carousel.js.map"
+    }
+  ]
+}

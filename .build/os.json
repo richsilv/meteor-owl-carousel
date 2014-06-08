@@ -1,0 +1,19 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/owl-carousel.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/owl-carousel.js",
+      "sourceMap": "os/packages/owl-carousel.js.map"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/package.js": "e50e17d047b6968d417775f7d226a2bae4f7c4c0",
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/lib/owl.carousel.css": "ea1b5681061de5c3616287ca002453a751cf29b0",
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/lib/owl.theme.default.css": "e2a1ae946aa5022047a5b8efe2319c02167a9603",
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/lib/owl.carousel.js": "c3f6b5942bf58414ef2b70cc8eaca344e14e3a22"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/package.js": "e50e17d047b6968d417775f7d226a2bae4f7c4c0"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/package.js": "e50e17d047b6968d417775f7d226a2bae4f7c4c0"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/home/richard/Meteor/tempapp/packages/owl-carousel/package.js": "e50e17d047b6968d417775f7d226a2bae4f7c4c0"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/richard/Meteor/tempapp/packages/owl-carousel/package.js": "e50e17d047b6968d417775f7d226a2bae4f7c4c0"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "owl-carousel": "/home/richard/Meteor/tempapp/packages/owl-carousel",
+    "meteor": "/home/richard/.meteor/packages/meteor/8e32057b0d",
+    "jquery": "/home/richard/.meteor/packages/jquery/2ff5a27117"
+  },
+  "source": "/home/richard/Meteor/tempapp/packages/owl-carousel"
+}

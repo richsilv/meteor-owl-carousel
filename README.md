@@ -29,8 +29,6 @@ See what Owl can do:
 * [More demos](http://owlgraphic.com/owlcarousel/#more-demos)
 
 ### 1.Getting Started
-Load jQuery(1.7+) and include Owl Carousel plugin files
-
 ```shell
 mrt add owl-carousel
 ```

@@ -31,7 +31,7 @@ See what Owl can do:
 
 ### 1.Getting Started
 ```shell
-mrt add owl-carousel
+meteor add richsilv:owl-carousel
 ```
 
 ### 2.Set up your HTML
